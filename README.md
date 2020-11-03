@@ -1,6 +1,6 @@
 # SubHub
 
-<b>Soon on Play Market!</b>
+<b>Available on Play Market! (https://play.google.com/store/apps/details?id=com.ta.youtube_captions&hl=ru)</b>
 
 SubHub is your assistant in retrieving and reading Youtube video subtitles, closed captions with timecodes. The app searches only for videos which contain subtitles in any language. You can watch current trending videos with subtitles, and filter them by certain categories.
 
