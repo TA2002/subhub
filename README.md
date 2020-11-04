@@ -15,12 +15,18 @@ Advantages of SubHub:
   <img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/512x512.png" height="150" width="150" top="10" >
 </p>
 
-<a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/1.jpg" align="left" height="550" width="300" top="50" ></a> <a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/2.jpg" align="right" height="550" width="300" top="50" ></a>
-
-
-<a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/3.jpg" align="left" height="550" width="300" top="50"></a> <a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/4.jpg" align="right" height="550" width="300" top="50" ></a>
-
-<a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/5.jpg" align="left" height="550" width="300" top="50" ></a> <a href="url"><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/6.jpg" align="right" height="550" width="300" top="50" ></a>
+<table>
+  <tr>
+    <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/1.jpg" align="left" height="550" width="300"></td>
+      <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/2.jpg" align="right" height="550" width="300"></td>
+     <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/3.jpg" align="left" height="550" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/4.jpg" align="right" height="550" width="300"></td>
+    <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/5.jpg" align="left" height="550" width="300"></td>
+    <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/6.jpg" align="right" height="550" width="300"></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/7.jpg" height="550" width="300" top="10" >
