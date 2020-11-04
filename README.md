@@ -26,8 +26,8 @@ Advantages of SubHub:
     <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/5.jpg" align="left" height="550" width="300"></td>
     <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/6.jpg" align="right" height="550" width="300"></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/7.jpg" height="550" width="300"></td>
+  </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/TA2002/subhub_v1/blob/master/app-images/7.jpg" height="550" width="300" top="10" >
-</p>
